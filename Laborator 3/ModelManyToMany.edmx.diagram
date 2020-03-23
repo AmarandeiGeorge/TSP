@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6b389af39ce84f65b57f18f01974589d" Name="Diagram1" >
+        <EntityTypeShape EntityType="ModelManyToMany.Album" Width="1.5" PointX="2.75" PointY="1.25" />
+        <EntityTypeShape EntityType="ModelManyToMany.Artist" Width="1.5" PointX="5.5" PointY="1.25" />
+        <AssociationConnector Association="ModelManyToMany.AlbumArtist" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

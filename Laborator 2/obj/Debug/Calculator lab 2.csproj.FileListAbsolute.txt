@@ -1,0 +1,9 @@
+C:\Users\Gorgo\source\repos\ConsoleApp1\Calculator lab 2\obj\Debug\Calculator lab 2.csprojAssemblyReference.cache
+C:\Users\Gorgo\source\repos\ConsoleApp1\Calculator lab 2\obj\Debug\Calculator_lab_2.Form1.resources
+C:\Users\Gorgo\source\repos\ConsoleApp1\Calculator lab 2\obj\Debug\Calculator_lab_2.Properties.Resources.resources
+C:\Users\Gorgo\source\repos\ConsoleApp1\Calculator lab 2\obj\Debug\Calculator lab 2.csproj.GenerateResource.cache
+C:\Users\Gorgo\source\repos\ConsoleApp1\Calculator lab 2\bin\Debug\Calculator lab 2.exe.config
+C:\Users\Gorgo\source\repos\ConsoleApp1\Calculator lab 2\bin\Debug\Calculator lab 2.exe
+C:\Users\Gorgo\source\repos\ConsoleApp1\Calculator lab 2\bin\Debug\Calculator lab 2.pdb
+C:\Users\Gorgo\source\repos\ConsoleApp1\Calculator lab 2\obj\Debug\Calculator lab 2.exe
+C:\Users\Gorgo\source\repos\ConsoleApp1\Calculator lab 2\obj\Debug\Calculator lab 2.pdb
